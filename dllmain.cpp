@@ -271,10 +271,6 @@ HRESULT __stdcall hkEndScene(LPDIRECT3DDEVICE9 pDevice)
 			CSessionPostTramp(pCSession, StartGame, true);
 		}
 
-		if (ImGui::Button("nigger virus explosion", ImVec2(140, 28)))
-		{
-		}
-
 		if (ImGui::Button("DOS Host", ImVec2(140, 28)))
 		{
 		}
